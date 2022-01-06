@@ -1,8 +1,4 @@
 # Alatoo Medical Care
-Team members: Askhat Shailoobekov, Maksatbek Kanybekuulu
-
-
-
 
 Github [Link to a git repository (20 pts max) it should have] ✅
 
