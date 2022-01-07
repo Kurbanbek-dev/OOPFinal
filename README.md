@@ -54,4 +54,9 @@ Login: admin || Password: alatoo123
 
 <img src="https://user-images.githubusercontent.com/49748480/103016576-749a8400-456c-11eb-995f-2ba192922dba.png" width="885" height="480" />
 
+## Feedback
+https://drive.google.com/file/d/1-CgzTHa94P1LAzgBEHkh4zZfBGv9uayn/view?usp=sharing
+
+https://drive.google.com/file/d/1t0Mwpaxr6n0QG4Cqnj7EtuaxjTvS_Vq5/view?usp=sharing
+
 
